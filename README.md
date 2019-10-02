@@ -1,13 +1,13 @@
 # Linux_Config
 
-# Install using following command (don't copy $ sign it is just naming convention to show terminal commands) 
+# Install vim using the following command (don't copy $ sign it is just naming convention to show terminal commands) 
 $ sudo apt-get install vim
 
-# then copy vimrc file to your home by using following command 
+# After getting vim copy vimrc file to your home by using following command 
 $ cp vimrc ~/.vimrc
 
-# install tmux using 
+# Install tmux using 
 $ sudo spt-get install tmux
 
-# copy tmux folder to your ~/. using 
+# Copy tmux folder to your ~/. using 
 $ cp -r tmux/ ~/.tmux/
