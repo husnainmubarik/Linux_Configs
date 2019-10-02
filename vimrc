@@ -20,4 +20,3 @@ noremap ,<space> :%s/\s\+$//e<CR>
 
 set tags=./tags,tags;$HOME
 
-cs add $CSCOPE_DB
